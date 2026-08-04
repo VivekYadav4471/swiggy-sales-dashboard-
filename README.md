@@ -4,7 +4,7 @@
 
 ### 📊 Interactive Excel Dashboard for Sales Analytics
 
-<img src="Dashboard.png" width="900">
+<img src="Swiggy Dashboard.png" width="900">
 
 </div>
 
