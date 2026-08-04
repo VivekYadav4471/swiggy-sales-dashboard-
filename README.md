@@ -4,7 +4,8 @@
 
 ### 📊 Interactive Excel Dashboard for Sales Analytics
 
-<img src="Swiggy Dashboard.png" width="900">
+<img src="<img width="1081" height="685" alt="Swiggy Dashboard " src="https://github.com/user-attachments/assets/004df7ce-fc91-491c-beca-834c9b6b6b43" />
+" width="900">
 
 </div>
 
@@ -67,7 +68,8 @@ The dashboard enables users to monitor sales performance, compare restaurant per
 # 📸 Dashboard Preview
 
 <p align="center">
-<img src="Dashboard.png" width="1000">
+<img src="<img width="1081" height="685" alt="Swiggy Dashboard " src="https://github.com/user-attachments/assets/77a7b189-58d5-4ca7-85fb-a5a0a844d40d" />
+" width="1000">
 </p>
 
 ---
